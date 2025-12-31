@@ -1,0 +1,8 @@
+{
+  "name": "TravelGenie Pro",
+  "description": "An all-in-one AI travel assistant for planning itineraries, splitting bills, visualizing maps, and translation.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
